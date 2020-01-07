@@ -1,8 +1,8 @@
 const HDWalletProvider = require("truffle-hdwallet-provider");
 require('dotenv').config();
 
-var MNENOMIC = "lunch art organ swear buddy ridge steak gain person dash leave undo";
-var INFURA_API_KEY = "rinkeby.infura.io/v3/9bc433b35c6842ca878cd15d906e2f97";
+var MNENOMIC = "your won seed phrase";
+var INFURA_API_KEY = "rinkeby.infura.io/v3/ + key";
 
 
 module.exports = {
